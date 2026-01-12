@@ -1,0 +1,6 @@
+ucli.key
+*.fsdb
+build
+logs
+verdi*
+novas*
